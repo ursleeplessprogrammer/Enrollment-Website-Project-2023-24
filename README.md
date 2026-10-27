@@ -4,6 +4,12 @@ Welcome to the **Informatics Lab Class Registration** project—a web applicatio
 
 Finding and registering for the right lab class should be simple. This project provides an online platform for practical class enrollment, helping make the process more organized and accessible.
 
+<img width="1920" height="1080" alt="Screenshot (772)" src="https://github.com/user-attachments/assets/34c37836-4e7c-42b9-b806-e61a81761e39" />
+<img width="1920" height="1080" alt="Screenshot (773)" src="https://github.com/user-attachments/assets/9ef4e0b8-de95-4df3-b451-05072245bbe2" />
+<img width="1920" height="1080" alt="Screenshot (774)" src="https://github.com/user-attachments/assets/67a246f1-ea15-4b92-a888-87ce57fe89fa" />
+<img width="1920" height="1080" alt="Screenshot (775)" src="https://github.com/user-attachments/assets/c76e9b7a-91b9-4d18-a18d-1022a63e302d" />
+
+
 ## ✨ About the Project
 
 Initially, this project was developed by our fellow senior back then and I'm assigned to improved and put it on production.
