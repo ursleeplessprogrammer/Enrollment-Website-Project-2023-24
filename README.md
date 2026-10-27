@@ -2,12 +2,12 @@
 
 Welcome to the **Informatics Lab Class Registration** project—a web application designed to help Informatics students sign up for practical classes.
 
-## ✨ About the Project
-
 Finding and registering for the right lab class should be simple. This project provides an online platform for practical class enrollment, helping make the process more organized and accessible.
 
+## ✨ About the Project
+
 Initially, this project was developed by our fellow senior back then and I'm assigned to improved and put it on production.
-I'm alse push some dummy dataset to try it so feel free to fork and try it on your own.
+I'm also did push some dummy dataset for testing purposes, feel free to fork and try it on your own.
 
 ## 🚀 Getting Started
 
