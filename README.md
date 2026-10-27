@@ -34,7 +34,7 @@ Before you begin, make sure you have:
 
    ```bash
    git clone https://github.com/IvanVincentKwenandar/Enrollment-Website-Project-2023-24.git
-   cd projectAssign160523
+   cd Enrollment-Website-Project-2023-24
 
 2. **Install dependencies**
 
